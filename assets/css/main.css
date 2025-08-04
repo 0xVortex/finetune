@@ -2586,6 +2586,11 @@ input, select, textarea {
 			width: calc(33.33333% - 2.5em);
 			margin: 2.5em 0 0 2.5em;
 		}
+.tiles article > .logo {
+				
+				border-radius: 50%;
+				overflow: hidden;
+			}
 
 			.tiles article > .image {
 				-moz-transition: -moz-transform 0.5s ease;
@@ -3328,4 +3333,5 @@ input, select, textarea {
 			}
 
 		}
+
 
